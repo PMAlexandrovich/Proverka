@@ -10,6 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("From developing/newbranch");
             Console.WriteLine("Hello, GIT. У нас получилось, но не все!!!!");
             Console.WriteLine("Приветик товарищ ☺☻♥");
         }
