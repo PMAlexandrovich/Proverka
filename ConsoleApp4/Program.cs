@@ -10,7 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, GIT. У нас получилось!!!!");
+            Console.WriteLine("Hello, GIT. У нас получилось, но не все!!!!");
         }
     }
 }
